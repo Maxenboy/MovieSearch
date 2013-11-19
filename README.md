@@ -1,0 +1,1 @@
+An application that enables the user to list the movies and/or TV-shows in given directory. Possible to double.click the name of the file and play in predefined program.
